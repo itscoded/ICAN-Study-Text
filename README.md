@@ -1,0 +1,17 @@
+# ICAN Study Text
+
+- [Financial Reporting (FR)](./FR.md)
+- [Corporate Strategic MGMT (CSM)](./CSM.md)
+- [Management Information (MI)](./MI.md)
+- [Strategic Financial Management (SFM)](./SFM.md)
+- [Taxation (T)](./T.md)
+- [Financial Accounting (FA)](./FA.md)
+- [Advanced Audit and Assurance (AAA)](./AAA.md)
+- [Advanced Taxation (AT)](./AT.md)
+- [Business Law (BL)](./BL.md)
+- [Case Study (CS)](./CS.md)
+- [Business Management and Finance (BMF)](./BMF.md)
+- [Audit and Assurance (AA)](./AA.md)
+- [Performance Management (PM)](./PM.md)
+- [Corporate Reporting (CR)](./CR.md)
+- [Public Sector Accounting and Finance (PSAF)](./PSAF.md)
