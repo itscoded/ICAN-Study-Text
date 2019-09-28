@@ -1,7 +1,7 @@
 # ICAN Study Text
 
 - [Financial Reporting (FR)](./FR.md)
-- [Corporate Strategic MGMT (CSM)](./CSM.md)
+- [Corporate Strategic Management and Ethics (CSME)](./CSME.md)
 - [Management Information (MI)](./MI.md)
 - [Strategic Financial Management (SFM)](./SFM.md)
 - [Taxation (T)](./T.md)
